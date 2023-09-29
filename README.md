@@ -1,18 +1,13 @@
-## Getting Started
+## Desafio Java 
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Trata-se de um desafio Java da DIO onde aplico conhecimentos sobre controle de fluxo em Java.
 
-## Folder Structure
+## Instruções para executar:
 
-The workspace contains two folders by default, where:
+É necessário ter o Java JDK/JRE na versão 8 ou maior instalado em sua máquina.
+Clone o projeto em sua máquina;
+Execute o método main da classe Contador.java que se encontra na pasta src
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+O programa irá solicitar o input de dois números pelo usuário.
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
